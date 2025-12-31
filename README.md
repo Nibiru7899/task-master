@@ -1,2 +1,11 @@
-# task-master
-Task Master is a web application designed to help teams manage tasks, track progress, and collaborate on projects. It allows users to create and assign tasks, set deadlines, and track the status of each task. The application also includes features for user authentication, task commenting, and team management.
+# Learning Project
+## Description
+A learning project using Flask, SQLite, Bootstrap, and JavaScript.
+## Acceptance Criteria
+* The application should display a home page with a navigation bar.
+* The application should have a database to store user data.
+* The application should use Bootstrap for styling and JavaScript for dynamic functionality.
+## Setup Instructions
+1. Clone the repository
+2. Install dependencies using pip install -r requirements.txt
+3. Run the application using python src/main.py
